@@ -1,0 +1,2 @@
+# Miniproject
+Alumni management system
